@@ -13,14 +13,12 @@ title: Potato                          # the main title
 tagline: seonwoonam blog.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+    Seonwoo's Blog
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: "https:://seonwooname.github.io"
 
-author: your_full_name                  # change to your full name
+author: Nam seonwoo                  # change to your full name
 
 avatar: /assets/img/sample/avatar.jpg   # support internet resources
 
@@ -31,7 +29,7 @@ twitter:
   username: twitter_username            # change to your twitter username
 
 social:
-  name: your_full_name                  # it will shows as the copyright owner in Footer
+  name: Nam seonwoo                  # it will shows as the copyright owner in Footer
   email: potatomoney716@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
